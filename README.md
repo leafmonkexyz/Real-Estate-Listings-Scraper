@@ -27,7 +27,7 @@ The scraped data is stored in a CSV file named `listings.csv`. The CSV file cont
 - pandas
 - requests
 
-## Author
+## Acknowledgements
 
-Smarth Sharma
+The data belongs to www.immobilienscount24.de and is for research purposes only.
 
